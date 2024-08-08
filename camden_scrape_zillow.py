@@ -23,7 +23,7 @@ else:
     data = response.json()
 
     # Define the file path
-    file_path = "https://github.com/apondok/apso/main/properties/911_data.json"
+    file_path = "https://raw.githubusercontent.com/apondok/apso/main/properties/911_data.json"
 
     # Create directories if they do not exist
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
