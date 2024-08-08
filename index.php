@@ -94,7 +94,7 @@ $properties = $data['data']['cat1']['searchResults']['listResults'];
 				<!-- Add more options as needed -->
 			</select>
 		</form>
-        <div class="properties-listing spacer">
+        <div class="properties-listing spacer"><a href="buysalerent.php" class="pull-right viewall">View All Listing</a>
             <h2>Featured Properties</h2>
             <div id="owl-example" class="owl-carousel">
 						<?php foreach ($properties as $property): ?>
