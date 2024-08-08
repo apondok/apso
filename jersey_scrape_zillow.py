@@ -17,10 +17,10 @@ def run_script(script_path):
 
 # Paths to the scripts
 scripts = [
-    'C:/Projects/MyProject/real_estate_bot/PHP/website/burlington_scrape_zillow.py',
-    'C:/Projects/MyProject/real_estate_bot/PHP/website/camden_scrape_zillow.py',
-    'C:/Projects/MyProject/real_estate_bot/PHP/website/gloucester_scrape_zillow.py',
-    'C:/Projects/MyProject/real_estate_bot/PHP/website/mercer_scrape_zillow.py'
+    'https://github.com/apondok/apso/main/burlington_scrape_zillow.py',
+    'https://github.com/apondok/apso/main/camden_scrape_zillow.py',
+    'https://github.com/apondok/apso/main/gloucester_scrape_zillow.py',
+    'https://github.com/apondok/apso/main/mercer_scrape_zillow.py'
 ]
 
 # Run each script
