@@ -22,35 +22,35 @@ $properties = $data['data']['cat1']['searchResults']['listResults'];
           <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
             <div class="sl-slide-inner">
               <div class="bg-img bg-img-1"></div>
-              <h2><a href=""><img src="images/slider/1.jpg" alt="slider"></a></h2>
+              <h2><a href=""></a></h2>
             </div>
           </div>
           
           <div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
             <div class="sl-slide-inner">
               <div class="bg-img bg-img-2"></div>
-              <h2><a href=""><img src="images/slider/2.jpg" alt="slider"></a></h2>
+              <h2><a href=""></a></h2>
             </div>
           </div>
           
           <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
             <div class="sl-slide-inner">
               <div class="bg-img bg-img-3"></div>
-              <h2><a href=""><img src="images/slider/3.jpg" alt="slider"></a></h2>
+              <h2><a href=""></a></h2>
             </div>
           </div>
           
           <div class="sl-slide" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
             <div class="sl-slide-inner">
               <div class="bg-img bg-img-4"></div>
-              <h2><a href=""><img src="images/slider/4.jpg" alt="slider"></a></h2>
+              <h2><a href=""></a></h2>
             </div>
           </div>
           
           <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
             <div class="sl-slide-inner">
               <div class="bg-img bg-img-5"></div>
-              <h2><a href=""><img src="images/slider/5.jpg" alt="slider"></a></h2>
+              <h2><a href=""></a></h2>
             </div>
           </div>
         </div><!-- /sl-slider -->
