@@ -23,7 +23,7 @@ else:
     data = response.json()
 
     # Define the file path
-    file_path = "C:\\Projects\\MyProject\\real_estate_bot\\PHP\\website\\properties\\1201_data.json"
+    file_path = "https://github.com/apondok/apso/main/properties/1201_data.json"
 
     # Create directories if they do not exist
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
