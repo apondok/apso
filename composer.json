@@ -3,7 +3,7 @@
     "description": "Real Estate Website",
     "type": "project",
     "require": {
-        "php": "^8.3.10",
+        "php": "^8.2.22",
         "monolog/monolog": "^3.7",
         "guzzlehttp/guzzle": "^7.9",
         "twig/twig": "^3.11",
