@@ -58,7 +58,6 @@
                 <li><a href="about.php">About</a></li>
                 <li><a href="agents.php">Agents</a></li>         
                 <li><a href="blog.php">Blog</a></li>
-                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- #Nav Ends -->
@@ -79,11 +78,6 @@
 <div class="header">
 <a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
 
-              <ul class="pull-right">
-                <li><a href="buysalerent.php">Buy</a></li>
-                <li><a href="buysalerent.php">Sale</a></li>         
-                <li><a href="buysalerent.php">Rent</a></li>
-              </ul>
 </div>
 <!-- #Header Starts -->
 </div>
