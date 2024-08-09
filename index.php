@@ -5,7 +5,7 @@
 $selected_county = isset($_GET['selection']) ? $_GET['selection'] : '911';
 
 // Include the JSON reading logic
-$json_path = 'https://github.com/apondok/apso/tree/971c054f3a5b8b76174485a49027316e478fc06f/properties/' . $selected_county . '_data.json';
+$json_path = 'properties/' . $selected_county . '_data.json';
 $json = file_get_contents($json_path);
 $data = json_decode($json, true);
 
